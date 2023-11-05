@@ -1,0 +1,5 @@
+Dataset: 65536 elements, Variation: reversed
+Execution Time: 1939217.09 ms
+Memory Usage Before Sorting: 562488 bytes
+Memory Usage After Sorting: 562488 bytes
+===
